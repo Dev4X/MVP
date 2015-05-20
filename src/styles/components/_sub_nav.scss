@@ -37,3 +37,23 @@
 		color: $learning_color;
 	}
 }
+
+.community #sub-nav {
+	li {
+		width: 33.33%;
+	}
+
+	a {
+		color: $community_color;
+	}
+}
+
+.profile #sub-nav {
+	li {
+		width: 50%;
+	}
+
+	a {
+		color: $profile_color;
+	}
+}

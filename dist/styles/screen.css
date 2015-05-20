@@ -446,6 +446,9 @@ header {
   .community #banner {
     background: #103CC0;
     color: #fff; }
+  .profile #banner {
+    background: #943776;
+    color: #fff; }
 
 #sub-nav {
   border-top: 1px solid #fff;
@@ -470,3 +473,13 @@ header {
   width: 33.33%; }
 .learning #sub-nav a {
   color: #269321; }
+
+.community #sub-nav li {
+  width: 33.33%; }
+.community #sub-nav a {
+  color: #103CC0; }
+
+.profile #sub-nav li {
+  width: 50%; }
+.profile #sub-nav a {
+  color: #943776; }
